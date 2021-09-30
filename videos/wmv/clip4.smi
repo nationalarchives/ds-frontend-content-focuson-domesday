@@ -1,0 +1,74 @@
+<SAMI>
+<HEAD>
+<STYLE TYPE="text/css">
+<!--
+P {
+font-size: 80%;
+font-family: Verdana;
+font-weight: normal;
+color: #FFFFFF;
+background: #000000;
+text-align: left;
+padding-left: 5px;
+padding-right: 5px;
+padding-bottom: 2px;
+}
+.Captions { Name: Captions; lang: EN_US_CC; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=0><p Class=ENUSCC>&nbsp;</p></SYNC>
+<SYNC Start="1000">
+<p class="Captions">And what has King William done since he has been in England?</p>
+</SYNC>
+<SYNC Start="5200">
+<p class="Captions">Largely laid waste to it! He has set fire to our forts and buildings,</p>
+</SYNC>
+<SYNC Start="11000">
+<p class="Captions">his armies have trampled over our fields and crops,</p>
+</SYNC>
+<SYNC Start="17000">
+<p class="Captions">burning down our villages and slaughtering their inhabitants.</p>
+</SYNC>
+<SYNC Start="20000">
+<p class="Captions">He has taken land from those who once held it here,</p>
+</SYNC>
+<SYNC Start="25000">
+<p class="Captions">and given it to his barons, so that they might be obedient to him.</p>
+</SYNC>
+<SYNC Start="30000">
+<p class="Captions">In return they must give him knights for an army,</p>
+</SYNC>
+<SYNC Start="35000">
+<p class="Captions">so that his power is strong and we remain weak.</p>
+</SYNC>
+<SYNC Start="40000">
+<p class="Captions">And now,</p>
+</SYNC>
+<SYNC Start="42000">
+<p class="Captions">this survey of theirs will fix our lives forever,</p>
+</SYNC>
+<SYNC Start="47000">
+<p class="Captions">&nbsp;</p>
+</SYNC>
+<SYNC Start="49000">
+<p class="Captions">for once these things are set down in it,</p>
+</SYNC>
+<SYNC Start="52000">
+<p class="Captions">they will be given the force of law!</p>
+</SYNC>
+<SYNC Start="56000">
+<p class="Captions">To appeal against them,</p>
+</SYNC>
+<SYNC Start="59000">
+<p class="Captions">there will be no appeal!</p>
+</SYNC>
+<SYNC Start="61000">
+<p class="Captions">For it will be like arguing on the Day of Judgment itself!</p>
+</SYNC>
+<SYNC Start="66000">
+<p class="Captions">&nbsp;</p>
+</SYNC>
+</BODY>
+</SAMI>

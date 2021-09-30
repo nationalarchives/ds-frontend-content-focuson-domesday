@@ -1,0 +1,80 @@
+<SAMI>
+<HEAD>
+<STYLE TYPE="text/css">
+<!--
+P {
+font-size: 80%;
+font-family: Verdana;
+font-weight: normal;
+color: #FFFFFF;
+background: #000000;
+text-align: left;
+padding-left: 5px;
+padding-right: 5px;
+padding-bottom: 2px;
+}
+.Captions { Name: Captions; lang: EN_US_CC; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=0><p Class=ENUSCC>&nbsp;</p></SYNC>
+<SYNC Start="1000">
+<p class="Captions">When we have completed our circuit</p>
+</SYNC>
+<SYNC Start="4000">
+<p class="Captions">the results of our investigations shall be taken to the scriptorium at Durham Cathedral.</p>
+</SYNC>
+<SYNC Start="10000">
+<p class="Captions">There, under the watchful eye of William of St Calais, Bishop of Durham,</p>
+</SYNC>
+<SYNC Start="16000">
+<p class="Captions">the scribes shall compile the final record.</p>
+</SYNC>
+<SYNC Start="19000">
+<p class="Captions">With quill pen, ink and parchment</p>
+</SYNC>
+<SYNC Start="23000">
+<p class="Captions">they shall set down the record for each of the shires.</p>
+</SYNC>
+<SYNC Start="26000">
+<p class="Captions">The King's holdings shall be listed first</p>
+</SYNC>
+<SYNC Start="30000">
+<p class="Captions">and then those of the lesser landowners in order of their rank.</p>
+</SYNC>
+<SYNC Start="35000">
+<p class="Captions">&nbsp;</p>
+</SYNC>
+<SYNC Start="37000">
+<p class="Captions">I think I can say,</p>
+</SYNC>
+<SYNC Start="39000">
+<p class="Captions">without any fear of contradiction,</p>
+</SYNC>
+<SYNC Start="42000">
+<p class="Captions">that the final document will stand as a testimony to the wisdom,</p>
+</SYNC>
+<SYNC Start="47000">
+<p class="Captions">and the strength of His Grace King William.</p>
+</SYNC>
+<SYNC Start="52000">
+<p class="Captions">In twenty years he has transformed England</p>
+</SYNC>
+<SYNC Start="55000">
+<p class="Captions">from a land of unruly brutes, torn apart by petty feuds,</p>
+</SYNC>
+<SYNC Start="62000">
+<p class="Captions">into a kingdom worthy of that name.</p>
+</SYNC>
+<SYNC Start="65000">
+<p class="Captions">A land, that is peaceful and civilised, fruitful and prosperous.</p>
+</SYNC>
+<SYNC Start="73000">
+<p class="Captions">A land that knows, without any shadow of a doubt, who it's ruler is.</p>
+</SYNC>
+<SYNC Start="81000">
+<p class="Captions">&nbsp;</p>
+</SYNC>
+</BODY>
+</SAMI>

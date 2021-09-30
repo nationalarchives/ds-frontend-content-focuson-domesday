@@ -1,0 +1,25 @@
+<smil xmlns:qt="http://www.apple.com/quicktime/
+resources/smilextensions" qt:autoplay="false" qt:time-slider="true">
+
+<head> 
+<meta name="title" content="test"/> 
+<layout> 
+<root-layout background-color="white" width="320" height="280"/> 
+<region id="videoregion" top="0" left="0" width="320" height="240"/> 
+<region id="textregion" top="240" left="0" width="320" height="40"/> 
+</layout> 
+</head> 
+
+<body> 
+<par> 
+
+<!-- VIDEO --> 
+<video src="clip4_512k.mov" region="videoregion"/> 
+
+<!-- CAPTIONS --> 
+<textstream src="caption4.mov" region="textregion" system-language="en" system-captions="on" title="english captions" alt="english captions"/> 
+
+</par> 
+</body> 
+
+</smil>
